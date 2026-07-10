@@ -15,4 +15,4 @@ The aim of this project is to investigate the relationship between global warmin
 - Develop and compare regression models.
 - Forecast future global temperature anomalies.
 - Provide business recommendations for climate risk management.
-- 
+  
